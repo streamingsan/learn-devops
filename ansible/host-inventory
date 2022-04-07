@@ -1,0 +1,6 @@
+[app]
+172.31.82.173 ansible_user=devops ansible_ssh_pass=today@1234
+172.31.88.76  ansible_user=devops ansible_ssh_pass=today@1234
+172.31.82.21  ansible_user=devops ansible_ssh_pass=today@1234
+172.31.81.190 ansible_user=devops ansible_ssh_pass=today@1234
+172.31.80.164 ansible_user=devops ansible_ssh_pass=today@1234
